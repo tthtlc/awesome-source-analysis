@@ -107,5 +107,3 @@ https://arxiv.org/pdf/cs/0503068
 
 When Coding Style Survives Compilation: De-anonymizing Programmers from Executable Binaries
 https://arxiv.org/pdf/1512.08546
-
-https://arxiv.org/pdf/1503.01186
