@@ -12,7 +12,6 @@ Please feel free to [pull requests](https://github.com/tthtlc/awesome-source-ana
 ## Sharing
 ## Table of Contents
 
-
 A Survey of Machine Learning for Big Code and Naturalness 
 https://arxiv.org/pdf/1709.06182
 
@@ -67,3 +66,46 @@ https://arxiv.org/pdf/1707.04742
 DeepAPT: Nation-State APT Attribution Using End-to-End Deep Neural Networks
 https://arxiv.org/pdf/1711.09666
 
+Automatic Structure Discovery for Large Source Code
+https://arxiv.org/pdf/1202.3335
+
+Comment Generation for Source Code: Survey
+https://arxiv.org/pdf/1802.02971
+
+Towards Reverse-Engineering Black-Box Neural Networks
+https://arxiv.org/abs/1711.01768
+
+Database Reverse Engineering based on Association Rule Mining 
+https://arxiv.org/pdf/1004.3272.pdf
+
+Automated detection and classification of cryptographic algorithms in binary programs through machine learning
+https://arxiv.org/pdf/1503.01186
+
+Automatically Generating Commit Messages from Diffs using Neural Machine Translation
+https://arxiv.org/pdf/1708.09492
+
+When Coding Style Survives Compilation: De-anonymizing ...
+https://arxiv.org/pdf/1512.08546
+
+Code smells
+https://arxiv.org/pdf/1802.06063
+
+Data Driven Exploratory Attacks on Black Box Classifiers in Adversarial Domains
+https://arxiv.org/pdf/1703.07909
+
+pix2code: Generating Code from a Graphical User Interface Screenshot
+https://arxiv.org/pdf/1705.07962
+
+Deep Learning in Software Engineering
+https://arxiv.org/pdf/1805.04825
+
+Predicting Software Defects Through SVM: An Empirical Approach
+https://arxiv.org/pdf/1803.03220
+
+A Survey of Reverse Engineering and Program Comprehension
+https://arxiv.org/pdf/cs/0503068
+
+When Coding Style Survives Compilation: De-anonymizing Programmers from Executable Binaries
+https://arxiv.org/pdf/1512.08546
+
+https://arxiv.org/pdf/1503.01186
