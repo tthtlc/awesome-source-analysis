@@ -84,7 +84,7 @@ https://arxiv.org/pdf/1503.01186
 Automatically Generating Commit Messages from Diffs using Neural Machine Translation
 https://arxiv.org/pdf/1708.09492
 
-When Coding Style Survives Compilation: De-anonymizing ...
+When Coding Style Survives Compilation: De-anonymizing Programmers from Executable
 https://arxiv.org/pdf/1512.08546
 
 Code smells
@@ -105,5 +105,3 @@ https://arxiv.org/pdf/1803.03220
 A Survey of Reverse Engineering and Program Comprehension
 https://arxiv.org/pdf/cs/0503068
 
-When Coding Style Survives Compilation: De-anonymizing Programmers from Executable Binaries
-https://arxiv.org/pdf/1512.08546
