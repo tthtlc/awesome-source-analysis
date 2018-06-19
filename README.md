@@ -13,8 +13,7 @@ Please feel free to [pull requests](https://github.com/tthtlc/awesome-source-ana
 ## Table of Contents
 
 
-A Survey of Machine Learning for Big Code and Naturalness
-
+A Survey of Machine Learning for Big Code and Naturalness 
 https://arxiv.org/pdf/1709.06182
 
 Ariadne: Analysis for Machine Learning Programs 
