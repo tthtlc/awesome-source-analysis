@@ -7,7 +7,7 @@ Maintainers - [Peter Teoh](https://github.com/tthtlc)
 ## Contributing
 Please feel free to [pull requests](https://github.com/tthtlc/awesome-source-analysis/pulls), email Peter Teoh (htmldeveloper@gmail.com) or join our chats to add links.
 
-[![Join the chat at https://gitter.im/tthtlc/awesome-source-analysis](https://gitter.im/tthtlc/awesome-source-analysis)]
+[[Join the chat at https://gitter.im/tthtlc/awesome-source-analysis](https://gitter.im/tthtlc/awesome-source-analysis)]
 
 ## Sharing
 ## Table of Contents
