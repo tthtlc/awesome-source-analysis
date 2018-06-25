@@ -36,11 +36,65 @@ https://arxiv.org/abs/1803.04497
 Automatic feature learning for vulnerability prediction
 https://arxiv.org/pdf/1708.02368
 
+Neural Turing Machines
+https://arxiv.org/pdf/1410.5401.pdf
+
+DeepCoder: Learning to Write Programs
+https://arxiv.org/abs/1611.01989
+
+Recent Advances in Neural Program Synthesis
+https://arxiv.org/pdf/1802.02353
+
+Neural-Guided Deductive Search for Real-Time Program Synthesis
+https://arxiv.org/pdf/1804.01186
+
+RobustFill: Neural Program Learning under Noisy I/O
+https://arxiv.org/pdf/1703.07469
+
+On End-to-End Program Generation from User Intention by Deep
+https://arxiv.org/pdf/1510.07211
+
+Neural Program Search: Solving Programming Tasks from Description
+https://arxiv.org/pdf/1802.04335
+
+A Syntactic Neural Model for General-Purpose Code Generation
+https://arxiv.org/pdf/1704.01696
+
+Building Machines That Learn and Think Like People
+https://arxiv.org/pdf/1604.00289
+
+A Survey of Machine Learning for Big Code and Naturalness
+https://arxiv.org/pdf/1709.06182
+
+Differentiable Programs with Neural Libraries
+https://arxiv.org/pdf/1611.02109
+
+Summary-TerpreT: A Probabilistic Programming Language for Program Induction
+https://arxiv.org/pdf/1612.00817
+
+Auto-Documenation for Software Development
+https://arxiv.org/pdf/1701.08485
+
+BOOK: Storing Algorithm-Invariant Episodes for Deep Reinforcement Learning
+https://arxiv.org/pdf/1709.01308
+
+Boda-RTC: Productive Generation of Portable, Efficient Code ...
+https://arxiv.org/pdf/1606.00094
+
+Making Neural Programming Architectures Generalize via Recursion
+https://arxiv.org/pdf/1704.06611
+
+Differentiable Functional Program Interpreters
+https://arxiv.org/pdf/1611.01988
+
+Utilizing Static Analysis and Code Generation to Accelerate
+https://arxiv.org/pdf/1206.6466
+
+Deep Probabilistic Programming Languages: A Qualitative Study
+https://arxiv.org/pdf/1804.06458
+
 BinPro: A Tool for Binary Source Code Provenance
 https://arxiv.org/pdf/1711.00830
-
-Easy over Hard: A Case Study on Deep Learning
-https://arxiv.org/pdf/1703.00133
 
 A Survey on Compiler Autotuning using Machine Learning
 https://arxiv.org/pdf/1801.04405
@@ -107,4 +161,3 @@ https://arxiv.org/pdf/1803.03220
 
 A Survey of Reverse Engineering and Program Comprehension
 https://arxiv.org/pdf/cs/0503068
-
