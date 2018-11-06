@@ -161,3 +161,7 @@ https://arxiv.org/pdf/1803.03220
 
 A Survey of Reverse Engineering and Program Comprehension
 https://arxiv.org/pdf/cs/0503068
+
+https://www.owasp.org/images/7/72/OWASP_Top_10-2017_%28en%29.pdf.pdf
+
+https://arxiv.org/pdf/1709.07101.pdf
