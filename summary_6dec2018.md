@@ -1,7 +1,10 @@
 [
   {
+
     "abstract": "11 Jul 2018 ... learning on source code is a promising approach for automated software vulnerability ... techniques to discover code vulnerability patterns. In this .... build off approaches developed for natural language processing. (NLP) [22].",
+
     "title": "[PDF] Automated Vulnerability Detection in Source Code Using ... - arXiv",
+
     [https://arxiv.org/pdf/1807.04320](https://arxiv.org/pdf/1807.04320)
   },
 
