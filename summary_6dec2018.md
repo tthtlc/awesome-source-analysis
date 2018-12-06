@@ -4,21 +4,25 @@
     "title": "[PDF] Automated Vulnerability Detection in Source Code Using ... - arXiv",
     [https://arxiv.org/pdf/1807.04320](https://arxiv.org/pdf/1807.04320)
   },
+
   {
     "abstract": "8 Aug 2017 ... ... code as a form of text and leveraging Natural Language Processing (NLP) ... source code file as a collection of code tokens associated with.",
     "title": "[PDF] Automatic feature learning for vulnerability prediction - arXiv",
     [https://arxiv.org/pdf/1708.02368](https://arxiv.org/pdf/1708.02368)
   },
+
   {
     "abstract": "24 Jul 2018 ... tool for C language programs, where the components are functions. We will .... (2) source-code location of the vulnerable instruction, and.",
     "title": "[PDF] Automatically Assessing Vulnerabilities Discovered by ... - arXiv",
     [https://arxiv.org/pdf/1807.09160](https://arxiv.org/pdf/1807.09160)
   },
+
   {
     "abstract": "7 Aug 2018 ... intermediate language representation of the binary's assembly instructions ... values). In dynamic analysis systems, binaries and source code.",
     "title": "[PDF] Survey of Automated Vulnerability Detection and Exploit ... - arXiv",
     [https://arxiv.org/pdf/1702.06162](https://arxiv.org/pdf/1702.06162)
   },
+
   {
     "abstract": "10 Apr 2015 ... programming languages and vulnerability types. The paper is organized ... i.e., the set of changes performed in the source code of the library in ...",
     "title": "[PDF] Impact assessment for vulnerabilities in open-source ... - arXiv",
