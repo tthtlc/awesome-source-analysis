@@ -1,6 +1,9 @@
 A Grammar-Based Structural CNN Decoder for Code Generation	Z. Sun, Q. Zhu, L. Mou, Y. Xiong, G. Li, L. Zhang
+
 Asm2Vec: Boosting Static Representation Robustness for Binary Clone Search against Code Obfuscation and Compiler Optimization	S. H. H. Ding, B. C. M. Fung, P. Charland
+
 code2seq: Generating Sequences from Structured Representations of Code	U. Alon, O. Levy, E. Yahav
+
 code2vec: Learning Distributed Representations of Code	U. Alon, O. Levy, E. Yahav
 Generative Code Modeling with Graphs	M. Brockscmidt, M. Allamanis A. L. Gaunt, O. Polozov
 Learning to Represent Edits	P. Yin, G. Neubig, M. Allamanis, M. Brockschmidt, A. L. Gaunt
