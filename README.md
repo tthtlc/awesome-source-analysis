@@ -63,9 +63,6 @@ https://arxiv.org/pdf/1704.01696
 Building Machines That Learn and Think Like People
 https://arxiv.org/pdf/1604.00289
 
-A Survey of Machine Learning for Big Code and Naturalness
-https://arxiv.org/pdf/1709.06182
-
 Differentiable Programs with Neural Libraries
 https://arxiv.org/pdf/1611.02109
 
@@ -175,3 +172,9 @@ https://arxiv.org/pdf/1806.07336.pdf
 Or just search arxiv.org (inaccuracies in identifying papers expected): [recent arxiv.org search](/summary_6dec2018.md)
 
 [LLVM based vulnerabilities search](/summary_llvm_source6dec2018.md)
+
+As an extension
+
+https://ml4code.github.io/ 
+
+(this site being an offshoot of the paper: https://arxiv.org/abs/1709.06182)
