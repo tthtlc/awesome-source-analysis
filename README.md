@@ -169,6 +169,9 @@ https://arxiv.org/pdf/1807.09160.pdf
 
 https://arxiv.org/pdf/1806.07336.pdf
 
+Code-Graph-RAG: Knowledge graphs from multi-language codebases using Tree-sitter AST parsing, Memgraph, and UniXcoder embeddings for semantic code search
+https://github.com/vitali87/code-graph-rag
+
 Or just search arxiv.org (inaccuracies in identifying papers expected): [recent arxiv.org search](/summary_6dec2018.md)
 
 [LLVM based vulnerabilities search](/summary_llvm_source6dec2018.md)
